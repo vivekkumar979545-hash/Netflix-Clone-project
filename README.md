@@ -1,2 +1,2 @@
 # Netflix-Clone-project
-using HTML CSS JS AI Face Detection Responsive
+using HTML CSS  Responsive
